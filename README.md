@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**arxell/arxell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Anton Ogorodnikov, Software Developer focusing on Python and Golang.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Magnit](https://www.magnit.tech/)
+- 📫 How to reach me: [arxell](http://t.me/arxell)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Another social networks:
+
+- [linkedin](https://www.linkedin.com/in/anton-ogorodnikov-297422123/)
+
+Public performance:
+
+- [Moscow Python Podcast. Про генерацию кода (level: all)](https://www.youtube.com/watch?v=l8_30z34AQk&ab_channel=MoscowPython)
+
+Publications:
+
+- [Как мы боролись с проблемой разлогинов в приложении «Магнита» и возвращали пользователей обратно](https://habr.com/ru/company/magnit/blog/586022/)
