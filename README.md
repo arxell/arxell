@@ -19,6 +19,7 @@ Another social networks
 Public performance
 
 - [Moscow Python Podcast. Про генерацию кода (level: all)](https://www.youtube.com/watch?v=l8_30z34AQk&ab_channel=MoscowPython)
+- [Два Ивана №13 Engineering Practices at Scale](https://music.yandex.ru/album/26457076/track/116358123?activeTab=track-list&dir=desc)
 
 Publications
 
