@@ -20,6 +20,8 @@ Public performance
 
 - [Moscow Python Podcast. Про генерацию кода (level: all)](https://www.youtube.com/watch?v=l8_30z34AQk&ab_channel=MoscowPython)
 - [Два Ивана №13 Engineering Practices at Scale](https://music.yandex.ru/album/26457076/track/116358123?activeTab=track-list&dir=desc)
+- [Moscow Python Podcast. Опыт перехода компании на Pydantic 2](https://www.youtube.com/watch?v=2QnjEM0Nfts&ab_channel=MoscowPython)
+
 
 Publications
 
