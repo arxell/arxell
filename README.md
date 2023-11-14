@@ -9,8 +9,8 @@ IT experience
 
 - Python developer about 12 years
 - Golang developer about 2 years
-- TeamLead about 5 years
-- Head of IT about 2 years
+- TeamLead about about 5 years
+- Head of Engeeneering about 3 years
 
 Another social networks
 
