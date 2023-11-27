@@ -27,3 +27,4 @@ Public performance
 Publications
 
 - [Как мы боролись с проблемой разлогинов в приложении «Магнита» и возвращали пользователей обратно](https://habr.com/ru/company/magnit/blog/586022/)
+- [ТГ канал - Бомбящий программист](https://t.me/explosive_coder)
