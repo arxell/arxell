@@ -12,9 +12,10 @@ IT experience
 - TeamLead about about 5 years
 - Head of Engeeneering about 3 years
 
-Another social networks
+Another sites
 
 - [linkedin](https://www.linkedin.com/in/anton-ogorodnikov-297422123/)
+- [hh](https://hh.ru/resume/b77f9b3dff006f5cc30039ed1f736563726574)
 
 Public performance
 
