@@ -30,5 +30,5 @@ Public performance
 Publications
 
 - [Как мы боролись с проблемой разлогинов в приложении «Магнита» и возвращали пользователей обратно](https://habr.com/ru/company/magnit/blog/586022/)
-- [Magnit Online public documentation](https://github.com/magnit-tech/magnit-online) in particular [engineering culture principles](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
+- [Публичная документация Magnit Online](https://github.com/magnit-tech/magnit-online) в частности [Принципы инженерной культуры](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
 - [ТГ канал - Бомбящий программист](https://t.me/explosive_coder)
