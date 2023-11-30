@@ -25,10 +25,10 @@ Public performance
 - [TeamLeadConf. Я тимлид, и у меня ломка. Что делать?](https://www.youtube.com/watch?v=q-Q1hKa905w) 
 - [Магнитное поле №12 – Как оптимизировать опыт разработки с помощью собственной PaaS
 ](https://www.youtube.com/watch?v=jEEPpgDwvok)
-- DevToDev demo на канале [magnit-tech](https://www.youtube.com/@magnit_tech)
+- DevToDev Demo on channel [magnit-tech](https://www.youtube.com/@magnit_tech)
 
 Publications
 
 - [Как мы боролись с проблемой разлогинов в приложении «Магнита» и возвращали пользователей обратно](https://habr.com/ru/company/magnit/blog/586022/)
-- [Публичная документация Magnit Online](https://github.com/magnit-tech/magnit-online) в частности [Принципы инженерной культуры](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
-- [ТГ канал - Бомбящий программист](https://t.me/explosive_coder)
+- [Публичная документация Magnit Online](https://github.com/magnit-tech/magnit-online), [Принципы инженерной культуры](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
+- [Telegram channel - Бомбящий программист](https://t.me/explosive_coder)
