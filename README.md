@@ -13,11 +13,11 @@ IT experience
 - Head of Engeeneering about 3 years
 
 Career path
-- 2021- ...: Head of Engineering - [Magnit](https://magnit.tech/)
-- 2019-2021: TeamLead (python/golang) - SoftPro
-- 2014-2019: TeamLead (python/golang) - [Emerging Travel Group](https://www.emergingtravel.com/) (ostrovok.ru)
-- 2012-2014: Python Developer - Digital October (undev)
-- 2010-2012: Python Developer - [НПО Эшелон](https://npo-echelon.ru/)
+- 2021 -  now: Head of Engineering - [Magnit](https://magnit.tech/)
+- 2019 - 2021: TeamLead (python/golang) - SoftPro
+- 2014 - 2019: TeamLead (python/golang) - [Emerging Travel Group](https://www.emergingtravel.com/) (ostrovok.ru)
+- 2012 - 2014: Python Developer - Digital October (undev)
+- 2010 - 2012: Python Developer - [НПО Эшелон](https://npo-echelon.ru/)
 - 2009: Intern - Schneider Electric
 
 Another sites
