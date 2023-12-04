@@ -30,9 +30,8 @@ Public performance
 - [Moscow Python Podcast. Про генерацию кода (level: all)](https://www.youtube.com/watch?v=l8_30z34AQk&ab_channel=MoscowPython)
 - [Два Ивана №13 Engineering Practices at Scale](https://music.yandex.ru/album/26457076/track/116358123?activeTab=track-list&dir=desc)
 - [Moscow Python Podcast. Опыт перехода компании на Pydantic 2](https://www.youtube.com/watch?v=2QnjEM0Nfts&ab_channel=MoscowPython)
-- [TeamLeadConf. Я тимлид, и у меня ломка. Что делать?](https://www.youtube.com/watch?v=q-Q1hKa905w) 
-- [Магнитное поле №12 – Как оптимизировать опыт разработки с помощью собственной PaaS
-](https://www.youtube.com/watch?v=jEEPpgDwvok)
+- [TeamLeadConf. Я тимлид, и у меня ломка. Что делать?](https://www.youtube.com/watch?v=q-Q1hKa905w)
+- [Магнитное поле №12 – Как оптимизировать опыт разработки с помощью собственной PaaS](https://www.youtube.com/watch?v=jEEPpgDwvok)
 - DevToDev Demo on channel [magnit-tech](https://www.youtube.com/@magnit_tech)
 
 Publications
@@ -41,3 +40,7 @@ Publications
 - [Как мы боролись с проблемой разлогинов в приложении «Магнита» и возвращали пользователей обратно](https://habr.com/ru/company/magnit/blog/586022/)
 - [Публичная документация Magnit Online](https://github.com/magnit-tech/magnit-online), [Принципы инженерной культуры](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
 - [Telegram channel - Бомбящий программист](https://t.me/explosive_coder)
+
+Feedback
+
+- [Artem Chapurin](feedback/artemchapurin.md)
