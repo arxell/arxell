@@ -7,4 +7,6 @@
 
 ## Контакты
 
-- TG @smhero
+- [telegram](https://t.me/smhero)
+- [linkedin](https://de.linkedin.com/in/artemchapurin)
+- [github](https://github.com/smhero)
