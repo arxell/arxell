@@ -44,3 +44,4 @@ Publications
 Feedback
 
 - [Artem Chapurin](feedback/artemchapurin.md)
+- [Vladimir Viazovetskov](feedback/vladimirviazovetskov.md)
