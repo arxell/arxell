@@ -46,3 +46,4 @@ Feedback
 - [Artem Chapurin](feedback/artemchapurin.md)
 - [Vladimir Viazovetskov](feedback/vladimirviazovetskov.md)
 - [Kirill Grishin](feedback/kirillgrishin.md)
+- [Nikolai Ivanov](feedback/nekolyanich.md)
