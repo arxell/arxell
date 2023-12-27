@@ -47,3 +47,4 @@ Feedback
 - [Vladimir Viazovetskov](feedback/vladimirviazovetskov.md)
 - [Kirill Grishin](feedback/kirillgrishin.md)
 - [Nikolai Ivanov](feedback/nekolyanich.md)
+- [Dmitry Baskakov](feedback/dbaskakov.md)
