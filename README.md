@@ -13,6 +13,7 @@ IT experience
 - Head of Engeeneering about 3 years
 
 Career path
+
 - 2021 - ....: Head of Engineering - [Magnit](https://magnit.tech/)
 - 2019 - 2021: TeamLead (python/golang) - SoftPro
 - 2014 - 2019: TeamLead (python/golang) - [Emerging Travel Group](https://www.emergingtravel.com/) (ostrovok.ru)
@@ -24,6 +25,14 @@ Another sites
 
 - [linkedin](https://www.linkedin.com/in/anton-ogorodnikov-297422123/)
 - [hh](https://hh.ru/resume/b77f9b3dff006f5cc30039ed1f736563726574)
+
+Feedback
+
+- [Artem Chapurin](feedback/artemchapurin.md). We worked together with Artem in the following places: Emerging Travel Group, Magnit.
+- [Vladimir Viazovetskov](feedback/vladimirviazovetskov.md). We worked together with Vladimir in the following places: Emerging Travel Group, Magnit.
+- [Kirill Grishin](feedback/kirillgrishin.md). We worked together with Vladimir in the following places: Magnit.
+- [Nikolai Ivanov](feedback/nekolyanich.md). We worked together with Nikolai in the following places: Digital October, Magnit.
+- [Dmitry Baskakov](feedback/dbaskakov.md). We worked together with Dmitry in the following places: SoftPro, Magnit.
 
 Public performance
 
@@ -40,11 +49,3 @@ Publications
 - [Как мы боролись с проблемой разлогинов в приложении «Магнита» и возвращали пользователей обратно](https://habr.com/ru/company/magnit/blog/586022/)
 - [Публичная документация Magnit Online](https://github.com/magnit-tech/magnit-online), [Принципы инженерной культуры](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
 - [Telegram channel - Бомбящий программист](https://t.me/explosive_coder)
-
-Feedback
-
-- [Artem Chapurin](feedback/artemchapurin.md)
-- [Vladimir Viazovetskov](feedback/vladimirviazovetskov.md)
-- [Kirill Grishin](feedback/kirillgrishin.md)
-- [Nikolai Ivanov](feedback/nekolyanich.md)
-- [Dmitry Baskakov](feedback/dbaskakov.md)
