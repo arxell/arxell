@@ -4,6 +4,7 @@ Hello! My name is Anton Ogorodnikov, and I am a software engineer. I graduated f
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-ogorodnikov-297422123/)](https://www.linkedin.com/in/anton-ogorodnikov-297422123/)
 [![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=http://t.me/arxell)](http://t.me/arxell)
+[![HH Badge](https://img.shields.io/badge/-HeadHunter-blue?style=plastic&logoColor=white&link=https://hh.ru/resume/b77f9b3dff006f5cc30039ed1f736563726574)](https://hh.ru/resume/b77f9b3dff006f5cc30039ed1f736563726574)
 
 IT experience
 
