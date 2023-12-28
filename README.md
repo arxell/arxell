@@ -22,11 +22,6 @@ Career path
 - 2010 - 2012: Python Developer - [НПО Эшелон](https://npo-echelon.ru/)
 - 2009: Intern - Schneider Electric
 
-Another sites
-
-- [linkedin](https://www.linkedin.com/in/anton-ogorodnikov-297422123/)
-- [hh](https://hh.ru/resume/b77f9b3dff006f5cc30039ed1f736563726574)
-
 Feedback
 
 - [Artem Chapurin](feedback/artemchapurin.md). We worked together with Artem in the following places: Emerging Travel Group, Magnit.
