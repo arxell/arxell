@@ -2,8 +2,8 @@
 
 Hello! My name is Anton Ogorodnikov, and I am a software engineer. I graduated from Bauman Moscow State Technical University with a specialization in Systems Programming. My main programming languages are Python and Golang. Currently, I am more focused on managing development departments of around 100+ people. I handle processes, architecture, hiring, and various cultural aspects related to software development.
 
-- 🔭 I’m currently working on [Magnit](https://www.magnit.tech/)
-- 📫 How to reach me: [arxell](http://t.me/arxell)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-ogorodnikov-297422123/)](https://www.linkedin.com/in/anton-ogorodnikov-297422123/)
+[![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=http://t.me/arxell)](http://t.me/arxell)
 
 IT experience
 
