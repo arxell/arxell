@@ -48,3 +48,4 @@ Feedback
 - [Kirill Grishin](feedback/kirillgrishin.md)
 - [Nikolai Ivanov](feedback/nekolyanich.md)
 - [Dmitry Baskakov](feedback/dbaskakov.md)
+- [Alex Shmitko](feedback/ashmitko.md)
