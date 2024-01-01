@@ -29,6 +29,7 @@ Feedback
 - [Kirill Grishin](feedback/kirillgrishin.md). We worked together with Vladimir in the following places: Magnit.
 - [Nikolai Ivanov](feedback/nekolyanich.md). We worked together with Nikolai in the following places: Digital October, Magnit.
 - [Dmitry Baskakov](feedback/dbaskakov.md). We worked together with Dmitry in the following places: SoftPro, Magnit.
+- [Alex Shmitko](feedback/ashmitko.md)
 
 Public performance
 
@@ -45,3 +46,4 @@ Publications
 - [Как мы боролись с проблемой разлогинов в приложении «Магнита» и возвращали пользователей обратно](https://habr.com/ru/company/magnit/blog/586022/)
 - [Публичная документация Magnit Online](https://github.com/magnit-tech/magnit-online), [Принципы инженерной культуры](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
 - [Telegram channel - Бомбящий программист](https://t.me/explosive_coder)
+
