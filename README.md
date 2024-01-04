@@ -26,10 +26,10 @@ Feedback
 
 - [Artem Chapurin](feedback/artemchapurin.md). We worked together with Artem in the following places: Emerging Travel Group, Magnit.
 - [Vladimir Viazovetskov](feedback/vladimirviazovetskov.md). We worked together with Vladimir in the following places: Emerging Travel Group, Magnit.
-- [Kirill Grishin](feedback/kirillgrishin.md). We worked together with Vladimir in the following places: Magnit.
+- [Kirill Grishin](feedback/kirillgrishin.md). We worked together with Kirill in the following places: Magnit.
 - [Nikolai Ivanov](feedback/nekolyanich.md). We worked together with Nikolai in the following places: Digital October, Magnit.
 - [Dmitry Baskakov](feedback/dbaskakov.md). We worked together with Dmitry in the following places: SoftPro, Magnit.
-- [Alex Shmitko](feedback/ashmitko.md). We worked together with Vladimir in the following places: Emerging Travel Group.
+- [Alex Shmitko](feedback/ashmitko.md). We worked together with Alex in the following places: Emerging Travel Group.
 
 Public performance
 
