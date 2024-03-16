@@ -49,3 +49,11 @@ Publications
 - [Публичная документация Magnit Online](https://github.com/magnit-tech/magnit-online), [Принципы инженерной культуры](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
 - [Telegram channel - Бомбящий программист](https://t.me/explosive_coder)
 
+Favourite Books
+- [Tribal Leadership](https://www.mann-ivanov-ferber.ru/books/lider-i-plemya/)
+- [The Ideal Executive](https://alpinabook.ru/catalog/book-idealnyy-rukovoditel/)
+- [The Five Dysfunctions of a Team](https://www.mann-ivanov-ferber.ru/books/biznesroman/arshipfable/)
+- [Джедайские техники. Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо](https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki/)
+- [45 татуировок менеджера](https://www.mann-ivanov-ferber.ru/books/paperbook/tattoos/)
+- [Emotional Intelligence](https://www.labirint.ru/books/788316/)
+- [Accelerate](https://alpinabook.ru/catalog/book-uskoryaysya-nauka-devops/)
