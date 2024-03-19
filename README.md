@@ -57,3 +57,4 @@ Favourite Books
 - [45 татуировок менеджера](https://www.mann-ivanov-ferber.ru/books/paperbook/tattoos/)
 - [Emotional Intelligence](https://www.labirint.ru/books/788316/)
 - [Accelerate](https://alpinabook.ru/catalog/book-uskoryaysya-nauka-devops/)
+- [Team Topologies](https://teamtopologies.com/)
