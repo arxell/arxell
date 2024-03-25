@@ -59,4 +59,4 @@ Favourite Books
 - [Джедайские техники. Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо](https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki/) :thumbsup:
 - [Emotional Intelligence](https://www.labirint.ru/books/788316/) :thumbsup:
 - [The One Minute Manager](https://leader-id.storage.yandexcloud.net/event_doc/267420/6206a24835b42950077534.pdf) :thumbsup:
-- [Good to Great](https://leader-id.storage.yandexcloud.net/event_doc/267420/6206a24835b42950077534.pdf](https://www.mann-ivanov-ferber.ru/books/sse/good-great/)https://www.mann-ivanov-ferber.ru/books/sse/good-great/) :ok_hand:
+- [Good to Great](https://www.mann-ivanov-ferber.ru/books/sse/good-great/) :ok_hand:
