@@ -58,3 +58,4 @@ Favourite Books
 - [Emotional Intelligence](https://www.labirint.ru/books/788316/)
 - [Accelerate](https://alpinabook.ru/catalog/book-uskoryaysya-nauka-devops/)
 - [Team Topologies](https://teamtopologies.com/)
+- [The One Minute Manager](https://leader-id.storage.yandexcloud.net/event_doc/267420/6206a24835b42950077534.pdf)
