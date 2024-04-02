@@ -41,6 +41,7 @@ Public performance
 - [TeamLeadConf. Я тимлид, и у меня ломка. Что делать?](https://www.youtube.com/watch?v=q-Q1hKa905w)
 - [Магнитное поле №12 – Как оптимизировать опыт разработки с помощью собственной PaaS](https://www.youtube.com/watch?v=jEEPpgDwvok)
 - DevToDev Demo on channel [magnit-tech](https://www.youtube.com/@magnit_tech)
+- [Публичное собеседование: Работа с метриками / Елена Гранд (Selectel), Антон Огородников](https://www.youtube.com/watch?v=9oQi9gYa6-Q&t=1530s&ab_channel=Podlodka)
 
 Publications
 
