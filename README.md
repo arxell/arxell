@@ -15,7 +15,8 @@ IT experience
 
 Career path
 
-- 2021 - ....: Head of Engineering - [Magnit](https://magnit.tech/)
+- 2024 - ....: CTO Ecom - [Golden Apple](https://goldapple.ru/)
+- 2021 - 2024: Head of Engineering - [Magnit](https://magnit.tech/)
 - 2019 - 2021: TeamLead (python/golang) - SoftPro
 - 2014 - 2019: TeamLead (python/golang) - [Emerging Travel Group](https://www.emergingtravel.com/) (ostrovok.ru)
 - 2012 - 2014: Python Developer - Digital October (undev)
