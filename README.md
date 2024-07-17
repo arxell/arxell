@@ -31,9 +31,9 @@ Feedback
 - [Nikolai Ivanov](feedback/nekolyanich.md). We worked together with Nikolai in the following places: Digital October, Magnit.
 - [Dmitry Baskakov](feedback/dbaskakov.md). We worked together with Dmitry in the following places: SoftPro, Magnit.
 - [Alex Shmitko](feedback/ashmitko.md). We worked together with Alex in the following places: Emerging Travel Group.
-- [Alexandr Sereda](feedback/alexsereda.md). We worked together with Alex in the following places: Magnit.
+- [Alexandr Sereda](feedback/alexsereda.md). We worked together with Alexandr in the following places: Magnit.
 - [Valentin Shchitov](feedback/valentinshchitov.md). We worked together with Valentin in the following places: Magnit.
-- [Alexey Malyshev](feedback/alexeymalyshev.md). We worked together with Valentin in the following places: Magnit.
+- [Alexey Malyshev](feedback/alexeymalyshev.md). We worked together with Alexey in the following places: Magnit.
 
 Public performance
 
