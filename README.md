@@ -44,6 +44,7 @@ Public performance
 - [Магнитное поле №12 – Как оптимизировать опыт разработки с помощью собственной PaaS](https://www.youtube.com/watch?v=jEEPpgDwvok)
 - DevToDev Demo on channel [magnit-tech](https://www.youtube.com/@magnit_tech)
 - [Публичное собеседование: Работа с метриками / Елена Гранд (Selectel), Антон Огородников](https://www.youtube.com/watch?v=9oQi9gYa6-Q)
+- [Инженерная культура. Что это и почему она важна?](https://youtu.be/LN4eKmKAzbQ?si=rzyjWDAXqkj_M5Zv)
 
 Publications
 
