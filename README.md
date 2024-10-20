@@ -35,6 +35,7 @@ Feedback
 - [Alexandr Sereda](feedback/alexsereda.md). We worked together with Alexandr in the following places: Magnit.
 - [Valentin Shchitov](feedback/valentinshchitov.md). We worked together with Valentin in the following places: Magnit.
 - [Alexey Malyshev](feedback/alexeymalyshev.md). We worked together with Alexey in the following places: Magnit.
+- [Sergey Gorustovich](feedback/sergeygorustovich.md). We worked together with Sergey in the following places: Magnit.
 
 Public performance
 
