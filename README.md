@@ -12,6 +12,7 @@ IT experience
 - Golang developer about 2 years
 - TeamLead about about 5 years
 - Head of Engeeneering about 3 years
+- CTO less than a year
 
 Career path
 
