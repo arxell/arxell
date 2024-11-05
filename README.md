@@ -53,7 +53,7 @@ Publications
 - 📝 [История типизации на примере одного большого проекта](https://habr.com/ru/companies/ostrovok/articles/443470/)
 - 📝 [Как мы боролись с проблемой разлогинов в приложении «Магнита» и возвращали пользователей обратно](https://habr.com/ru/company/magnit/blog/586022/)
 - 📝 [Публичная документация Magnit Online](https://github.com/magnit-tech/magnit-online), [Принципы инженерной культуры](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
-- 🔥 [Telegram channel - Бомбящий программист](https://t.me/explosive_coder) 👈
+- 👉 [Telegram channel - Бомбящий программист](https://t.me/explosive_coder) 👈
 
 Favourite Books
 - [Tribal Leadership](https://www.mann-ivanov-ferber.ru/books/lider-i-plemya/) :fire:
