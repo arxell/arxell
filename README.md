@@ -10,7 +10,7 @@ IT experience
 
 - Python developer about 12 years
 - Golang developer about 2 years
-- TeamLead about about 5 years
+- TeamLead about 5 years
 - Head of Engeeneering about 3 years
 - CTO less than a year
 
@@ -39,21 +39,21 @@ Feedback
 
 Public performance
 
-- [Moscow Python Podcast. Про генерацию кода (level: all)](https://www.youtube.com/watch?v=l8_30z34AQk&ab_channel=MoscowPython)
-- [Два Ивана №13 Engineering Practices at Scale](https://music.yandex.ru/album/26457076/track/116358123?activeTab=track-list&dir=desc)
-- [Moscow Python Podcast. Опыт перехода компании на Pydantic 2](https://www.youtube.com/watch?v=2QnjEM0Nfts&ab_channel=MoscowPython)
-- [TeamLeadConf. Я тимлид, и у меня ломка. Что делать?](https://www.youtube.com/watch?v=q-Q1hKa905w)
-- [Магнитное поле №12 – Как оптимизировать опыт разработки с помощью собственной PaaS](https://www.youtube.com/watch?v=jEEPpgDwvok)
-- DevToDev Demo on channel [magnit-tech](https://www.youtube.com/@magnit_tech)
-- [Публичное собеседование: Работа с метриками / Елена Гранд (Selectel), Антон Огородников](https://www.youtube.com/watch?v=9oQi9gYa6-Q)
-- [Инженерная культура. Что это и почему она важна?](https://youtu.be/LN4eKmKAzbQ?si=rzyjWDAXqkj_M5Zv)
+- 🎥 [Moscow Python Podcast. Про генерацию кода (level: all)](https://www.youtube.com/watch?v=l8_30z34AQk&ab_channel=MoscowPython)
+- 🔊 [Два Ивана №13 Engineering Practices at Scale](https://music.yandex.ru/album/26457076/track/116358123?activeTab=track-list&dir=desc)
+- 🎥 [Moscow Python Podcast. Опыт перехода компании на Pydantic 2](https://www.youtube.com/watch?v=2QnjEM0Nfts&ab_channel=MoscowPython)
+- 🎥 [TeamLeadConf. Я тимлид, и у меня ломка. Что делать?](https://www.youtube.com/watch?v=q-Q1hKa905w)
+- 🎥 [Магнитное поле №12 – Как оптимизировать опыт разработки с помощью собственной PaaS](https://www.youtube.com/watch?v=jEEPpgDwvok)
+- 🎥 DevToDev Demo on channel [magnit-tech](https://www.youtube.com/@magnit_tech)
+- 🎥 [Публичное собеседование: Работа с метриками / Елена Гранд (Selectel), Антон Огородников](https://www.youtube.com/watch?v=9oQi9gYa6-Q)
+- 🎥 [Инженерная культура. Что это и почему она важна?](https://youtu.be/LN4eKmKAzbQ?si=rzyjWDAXqkj_M5Zv)
 
 Publications
 
-- [История типизации на примере одного большого проекта](https://habr.com/ru/companies/ostrovok/articles/443470/)
-- [Как мы боролись с проблемой разлогинов в приложении «Магнита» и возвращали пользователей обратно](https://habr.com/ru/company/magnit/blog/586022/)
-- [Публичная документация Magnit Online](https://github.com/magnit-tech/magnit-online), [Принципы инженерной культуры](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
-- [Telegram channel - Бомбящий программист](https://t.me/explosive_coder) 👈
+- 📝 [История типизации на примере одного большого проекта](https://habr.com/ru/companies/ostrovok/articles/443470/)
+- 📝 [Как мы боролись с проблемой разлогинов в приложении «Магнита» и возвращали пользователей обратно](https://habr.com/ru/company/magnit/blog/586022/)
+- 📝 [Публичная документация Magnit Online](https://github.com/magnit-tech/magnit-online), [Принципы инженерной культуры](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
+- 📑 [Telegram channel - Бомбящий программист](https://t.me/explosive_coder) 👈
 
 Favourite Books
 - [Tribal Leadership](https://www.mann-ivanov-ferber.ru/books/lider-i-plemya/) :fire:
