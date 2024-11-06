@@ -22,7 +22,7 @@ Career path
 - 🦸🏻‍♂️ 2014 - 2019: TeamLead (python/golang) - [Emerging Travel Group](https://www.emergingtravel.com/) (ostrovok.ru)
 - 👨🏼‍💻 2012 - 2014: Python Developer - Digital October (undev)
 - 👨🏼‍💻 2010 - 2012: Python Developer - [НПО Эшелон](https://npo-echelon.ru/)
-- 👨🏻‍🎓 2009: Intern - Schneider Electric
+- 👨🏻‍🎓 2009: Intern - [Schneider Electric](https://schneider-russia.com/)
 
 Feedback
 
