@@ -8,7 +8,9 @@ Hello! My name is Anton Ogorodnikov, and I am a software engineer. I graduated f
 
 Education
 - 🎓 Bauman Moscow State Technical University, Specialist, Information Technology, 2006-2012
-- 🎓 Digital October (Binary District), Product Owner Course, 2018
+- 👨🏻‍🎓 Digital October (Binary District), Product Owner Course, 2018
+- 👨🏻‍🎓 Podlodka Teamlead Crew #6, 2020
+- 👨🏻‍🎓 Podlodka Teamlead Crew #12, 2024
 
 IT experience
 
