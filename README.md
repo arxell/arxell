@@ -32,16 +32,16 @@ Career path
 
 Feedback
 
-- [Artem Chapurin](feedback/artemchapurin.md). We worked together with Artem in the following places: Emerging Travel Group, Magnit.
-- [Vladimir Viazovetskov](feedback/vladimirviazovetskov.md). We worked together with Vladimir in the following places: Emerging Travel Group, Magnit.
-- [Kirill Grishin](feedback/kirillgrishin.md). We worked together with Kirill in the following places: Magnit.
-- [Nikolai Ivanov](feedback/nekolyanich.md). We worked together with Nikolai in the following places: Digital October, Magnit.
-- [Dmitry Baskakov](feedback/dbaskakov.md). We worked together with Dmitry in the following places: SoftPro, Magnit.
-- [Alex Shmitko](feedback/ashmitko.md). We worked together with Alex in the following places: Emerging Travel Group.
-- [Alexandr Sereda](feedback/alexsereda.md). We worked together with Alexandr in the following places: Magnit.
-- [Valentin Shchitov](feedback/valentinshchitov.md). We worked together with Valentin in the following places: Magnit.
-- [Alexey Malyshev](feedback/alexeymalyshev.md). We worked together with Alexey in the following places: Magnit.
-- [Sergey Gorustovich](feedback/sergeygorustovich.md). We worked together with Sergey in the following places: Magnit.
+- [Alex Shmitko](feedback/ashmitko.md). We worked in: Emerging Travel Group.
+- [Artem Chapurin](feedback/artemchapurin.md). We worked in: Emerging Travel Group, Magnit.
+- [Vladimir Viazovetskov](feedback/vladimirviazovetskov.md). We worked in: Emerging Travel Group, Magnit.
+- [Nikolai Ivanov](feedback/nekolyanich.md). We worked in: Digital October, Magnit.
+- [Dmitry Baskakov](feedback/dbaskakov.md). We worked in: SoftPro, Magnit.
+- [Kirill Grishin](feedback/kirillgrishin.md). We worked in: Magnit.
+- [Alexandr Sereda](feedback/alexsereda.md). We worked in: Magnit.
+- [Valentin Shchitov](feedback/valentinshchitov.md). We worked in: Magnit.
+- [Alexey Malyshev](feedback/alexeymalyshev.md). We worked in: Magnit.
+- [Sergey Gorustovich](feedback/sergeygorustovich.md). We worked in: Magnit.
 
 Public performance
 
