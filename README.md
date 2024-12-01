@@ -61,6 +61,13 @@ Publications
 - 📝 [Публичная документация Magnit Online](https://github.com/magnit-tech/magnit-online), [Принципы инженерной культуры](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
 - 👉 [Telegram channel - Бомбящий программист](https://t.me/explosive_coder) 👈
 
+Documents/articles that I like or that inspire me
+
+- [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+- [Avito Manifesto](https://manifesto.avito.com/)
+- [Avito Playbook](https://github.com/avito-tech/playbook)
+- [Magnit Engineering Culture](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
+
 Favourite Books
 - 🔥 [Tribal Leadership](https://www.mann-ivanov-ferber.ru/books/lider-i-plemya/)
 - 🔥 [The Ideal Executive](https://alpinabook.ru/catalog/book-idealnyy-rukovoditel/)
