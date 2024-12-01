@@ -32,16 +32,16 @@ Career path
 
 Feedback
 
-- [Alex Shmitko](feedback/ashmitko.md). We worked in: Emerging Travel Group.
-- [Artem Chapurin](feedback/artemchapurin.md). We worked in: Emerging Travel Group, Magnit.
-- [Vladimir Viazovetskov](feedback/vladimirviazovetskov.md). We worked in: Emerging Travel Group, Magnit.
-- [Nikolai Ivanov](feedback/nekolyanich.md). We worked in: Digital October, Magnit.
-- [Dmitry Baskakov](feedback/dbaskakov.md). We worked in: SoftPro, Magnit.
-- [Kirill Grishin](feedback/kirillgrishin.md). We worked in: Magnit.
-- [Alexandr Sereda](feedback/alexsereda.md). We worked in: Magnit.
-- [Valentin Shchitov](feedback/valentinshchitov.md). We worked in: Magnit.
-- [Alexey Malyshev](feedback/alexeymalyshev.md). We worked in: Magnit.
-- [Sergey Gorustovich](feedback/sergeygorustovich.md). We worked in: Magnit.
+- [Alex Shmitko](feedback/ashmitko.md). We worked together in: Emerging Travel Group.
+- [Artem Chapurin](feedback/artemchapurin.md). We worked together in: Emerging Travel Group, Magnit.
+- [Vladimir Viazovetskov](feedback/vladimirviazovetskov.md). We worked together in: Emerging Travel Group, Magnit.
+- [Nikolai Ivanov](feedback/nekolyanich.md). We worked together in: Digital October, Magnit.
+- [Dmitry Baskakov](feedback/dbaskakov.md). We worked together in: SoftPro, Magnit.
+- [Kirill Grishin](feedback/kirillgrishin.md). We worked together in: Magnit.
+- [Alexandr Sereda](feedback/alexsereda.md). We worked together in: Magnit.
+- [Valentin Shchitov](feedback/valentinshchitov.md). We worked together in: Magnit.
+- [Alexey Malyshev](feedback/alexeymalyshev.md). We worked together in: Magnit.
+- [Sergey Gorustovich](feedback/sergeygorustovich.md). We worked together in: Magnit.
 
 Public performance
 
