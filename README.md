@@ -70,7 +70,7 @@ Documents/articles that I like or that inspire me
 - [Publications by DORA](https://dora.dev/publications/)
 - [Agile Manifesto](https://agilemanifesto.org)
 - [12 Factor](https://12factor.net/)
-- [Zen_of_Python](https://en.wikipedia.org/wiki/Zen_of_Python)
+- [Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
 - [Programming Motherfucker](https://programming-motherfucker.com/)
 
 Favourite Books
