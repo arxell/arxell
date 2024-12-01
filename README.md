@@ -64,8 +64,7 @@ Publications
 Documents/articles that I like or that inspire me
 
 - [Amazon Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
-- [Avito Manifesto](https://manifesto.avito.com/)
-- [Avito Playbook](https://github.com/avito-tech/playbook)
+- [Avito Manifesto](https://manifesto.avito.com/) | [Avito Playbook](https://github.com/avito-tech/playbook)
 - [Magnit Engineering Culture](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
 - [Valve's Handbook for New Employees](https://www.valvesoftware.com/en/publications)
 - [Publications by DORA](https://dora.dev/publications/)
