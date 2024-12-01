@@ -62,13 +62,13 @@ Publications
 - 👉 [Telegram channel - Бомбящий программист](https://t.me/explosive_coder) 👈
 
 Favourite Books
-- [Tribal Leadership](https://www.mann-ivanov-ferber.ru/books/lider-i-plemya/) :fire:
-- [The Ideal Executive](https://alpinabook.ru/catalog/book-idealnyy-rukovoditel/) :fire:
-- [The Five Dysfunctions of a Team](https://www.mann-ivanov-ferber.ru/books/biznesroman/arshipfable/) :fire:
-- [Accelerate](https://alpinabook.ru/catalog/book-uskoryaysya-nauka-devops/) :fire:
-- [Team Topologies](https://teamtopologies.com/) :fire:
-- [45 татуировок менеджера](https://www.mann-ivanov-ferber.ru/books/paperbook/tattoos/) :thumbsup:
-- [Джедайские техники. Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо](https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki/) :thumbsup:
-- [Emotional Intelligence](https://www.labirint.ru/books/788316/) :thumbsup:
-- [The One Minute Manager](https://leader-id.storage.yandexcloud.net/event_doc/267420/6206a24835b42950077534.pdf) :thumbsup:
-- [Good to Great](https://www.mann-ivanov-ferber.ru/books/sse/good-great/) :ok_hand:
+- 🔥 [Tribal Leadership](https://www.mann-ivanov-ferber.ru/books/lider-i-plemya/)
+- 🔥 [The Ideal Executive](https://alpinabook.ru/catalog/book-idealnyy-rukovoditel/)
+- 🔥 [The Five Dysfunctions of a Team](https://www.mann-ivanov-ferber.ru/books/biznesroman/arshipfable/)
+- 🔥 [Accelerate](https://alpinabook.ru/catalog/book-uskoryaysya-nauka-devops/)
+- 🔥 [Team Topologies](https://teamtopologies.com/)
+- 👍 [45 татуировок менеджера](https://www.mann-ivanov-ferber.ru/books/paperbook/tattoos/)
+- 👍 [Джедайские техники. Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо](https://www.mann-ivanov-ferber.ru/books/dzhedajskie-texniki/)
+- 👍 [Emotional Intelligence](https://www.labirint.ru/books/788316/)
+- 👍 [The One Minute Manager](https://leader-id.storage.yandexcloud.net/event_doc/267420/6206a24835b42950077534.pdf)
+- 👌 [Good to Great](https://www.mann-ivanov-ferber.ru/books/sse/good-great/)
