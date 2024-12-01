@@ -68,6 +68,7 @@ Documents/articles that I like or that inspire me
 - [Magnit Engineering Culture](https://github.com/magnit-tech/magnit-online/blob/master/engineering_culture.md)
 - [Valve's Handbook for New Employees](https://www.valvesoftware.com/en/publications)
 - [Publications by DORA](https://dora.dev/publications/)
+- [Atlassian Incident Management](https://www.atlassian.com/incident-management)
 - [Agile Manifesto](https://agilemanifesto.org)
 - [12 Factor](https://12factor.net/)
 - [Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)
