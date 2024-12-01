@@ -7,16 +7,16 @@ Hello! My name is Anton Ogorodnikov, and I am a software engineer. I graduated f
 [![HH Badge](https://img.shields.io/badge/-HeadHunter-blue?style=plastic&logoColor=white&link=https://hh.ru/resume/b77f9b3dff006f5cc30039ed1f736563726574)](https://hh.ru/resume/b77f9b3dff006f5cc30039ed1f736563726574)
 
 Education
-- Bauman Moscow State Technical University, Specialist, Information Technology, 2006-2012
-- Digital October (Binary District), Product Owner Course, 2018
+- 🎓 Bauman Moscow State Technical University, Specialist, Information Technology, 2006-2012
+- 🎓 Digital October (Binary District), Product Owner Course, 2018
 
 IT experience
 
-- Python developer about 12 years
-- Golang developer about 2 years
-- TeamLead about 5 years
-- Head of Engeeneering about 3 years
-- CTO less than a year
+- 🐍 Python developer about 12 years
+- 🦫 Golang developer about 2 years
+- 🦸🏻‍♂️ TeamLead about 5 years
+- 👨‍💼 Head of Engeeneering about 3 years
+- 👨‍💼 CTO less than a year
 
 Career path
 
