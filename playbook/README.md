@@ -15,14 +15,7 @@
 - [middle](middle.md)
 - [senior](senior.md)
 
-## Профили технических менеджеров
-
-- [TeamLead платформенной команды](teamlead_platform_team.md)
-- [TeamLead продуктовой команды](teamlead_product_team.md)
-- [ClusterLead платформенной команды](clusterlead_platform_cluster.md)
-- [ClusterLead продуктовой команды](clusterlead_product_cluster.md)
-
-## Критерии оценки
+### Критерии оценки
 
 - Разработка;
 - Архитектура;
@@ -33,3 +26,11 @@
 - Команда;
 - Смертные грехи;
 - Навыки стека разработки.
+
+## Профили технических менеджеров
+
+- [TeamLead платформенной команды](teamlead_platform_team.md)
+- [TeamLead продуктовой команды](teamlead_product_team.md)
+- [ClusterLead платформенной команды](clusterlead_platform_cluster.md)
+- [ClusterLead продуктовой команды](clusterlead_product_cluster.md)
+
