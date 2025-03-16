@@ -19,6 +19,8 @@
 
 - [TeamLead платформенной команды](teamlead_platform_team.md)
 - [TeamLead продуктовой команды](teamlead_product_team.md)
+- [ClusterLead платформенной команды](clusterlead_platform_team.md)
+- [ClusterLead продуктовой команды](clusterlead_product_team.md)
 
 
 Критерии оценки:
