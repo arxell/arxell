@@ -22,8 +22,7 @@
 - [ClusterLead платформенной команды](clusterlead_platform_cluster.md)
 - [ClusterLead продуктовой команды](clusterlead_product_cluster.md)
 
-
-Критерии оценки:
+## Критерии оценки
 
 - Разработка;
 - Архитектура;
