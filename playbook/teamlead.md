@@ -1,3 +1,5 @@
+Первоисточник [Профили технических менеджеров Avito](https://github.com/avito-tech/playbook/blob/master/techlead-profile.md)
+
 # TeamLead продуктовой команды
 
 ## Управление людьми
