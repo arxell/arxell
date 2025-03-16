@@ -17,8 +17,8 @@
 
 ## Профили технических менеджеров
 
-- [teamlead platform team](teamlead_platform_team.md)
-- [teamlead product team](teamlead_product_team.md)
+- [TeamLead платформенной команды](teamlead_platform_team.md)
+- [TeamLead продуктовой команды](teamlead_product_team.md)
 
 
 Критерии оценки:
