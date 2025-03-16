@@ -15,6 +15,12 @@
 - [middle](middle.md)
 - [senior](senior.md)
 
+## Профили технических менеджеров
+
+- [teamlead platform team](teamlead_platform_team.md)
+- [teamlead product team](teamlead_product_team.md)
+
+
 Критерии оценки:
 
 - Разработка;
