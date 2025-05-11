@@ -49,6 +49,10 @@
 
 Он же disagree and commit. Многие вопросы решаются вне рамок нашей зоны компетенции и возможностей, а спускаются на нас уже в виде готовых решений. Мы готовы принять их, даже если это противоречит нашему личному мнению, но взамен всегда даем развернутую обратную связь, потому что она — [подарок](https://github.com/arxell/arxell/blob/main/playbook/engineering_culture_v2.md#%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C--%D1%8D%D1%82%D0%BE-%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%BE%D0%BA).
 
+#### Чем вдохновляться
+
+- [Disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit)
+- [Have Backbone; Disagree and Commit](https://www.youtube.com/watch?v=BtjBkf8qDW4)
 
 ### Идеальное — враг хорошего
 
