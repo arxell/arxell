@@ -66,6 +66,7 @@
 #### Чем вдохновляться
 
 - [Паралич принятия решений: лучшее — враг хорошего](https://habr.com/ru/articles/887454/)
+- [Perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
 
 ### Данные важнее личного мнения
 
