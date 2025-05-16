@@ -155,7 +155,7 @@
 
 #### Чем вдохновляться
 
-- [Make argumentation SExI again: как аргументировать свои решения и предложения](Make argumentation SExI again: как аргументировать свои решения и предложения)
+- [Make argumentation SExI again: как аргументировать свои решения и предложения](https://habr.com/ru/companies/yandex_praktikum/articles/573090/)
 - [Стратегия win-win: эффективное и выгодное сотрудничество с другими компаниями](https://www.sostav.ru/publication/strategiya-win-win-kak-effektivno-i-vygodno-sotrudnichat-s-drugimi-kompaniyami-71042.html?ysclid=maqejy91b8589302109)
 
 ### Думай как CEO
