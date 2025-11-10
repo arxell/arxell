@@ -1,6 +1,10 @@
 # Magnit OMNI
 
-## Head of Online Services Development Department at Magnit. 
+- 01.2021 — 02.2022: Head of Online Services Development Department.
+- 03.2022 — 04.2024: Head of Department. Management of online platform development.
+
+
+## Head of Online Services Development Department
 
 I am responsible for the development of the mobile application "Magnit: Promotions and Discounts" and the website magnit.ru.
 I have 6 direct reports and 45 indirect reports.
