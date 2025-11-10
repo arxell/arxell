@@ -28,7 +28,7 @@ Career path
 - 🦸🏻‍♂️ 2014 - 2019: TeamLead (python/golang) - [Emerging Travel Group](https://www.emergingtravel.com/) (ostrovok.ru | zenhotels.com | b2b.ostrovok.ru | ratehawk.com )
 - 🦸🏻‍♂️ 2019 - 2021: TeamLead (python/golang) - SoftPro
 - 👨‍💼 2021 - 2024: Head of Engineering - [Magnit](https://magnit.tech/): [EN](cv/magnit_en.md), [RU](cv/magnit_ru.md)
-- 👨‍💼 2024 - ....: CTO Ecom - [Gold Apple](https://goldapple.ru/)
+- 👨‍💼 2024 - ....: CTO Ecom - [Gold Apple](https://goldapple.ru/): [RU](cv/goldapple_ru.md)
 
 Feedback
 
