@@ -42,6 +42,7 @@ Feedback
 - [Valentin Shchitov](feedback/valentinshchitov.md). We worked together in: Magnit.
 - [Alexey Malyshev](feedback/alexeymalyshev.md). We worked together in: Magnit.
 - [Sergey Gorustovich](feedback/sergeygorustovich.md). We worked together in: Magnit.
+- [Maxim Stepanov](feedback/maximstepanov.md). We worked together in: Magnit, GoldApple.
 
 Public performance
 
