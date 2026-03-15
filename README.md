@@ -45,6 +45,7 @@ Feedback
 - [Maxim Stepanov](feedback/maximstepanov.md). We worked together in: Magnit, GoldApple.
 - [Sergey Zasorin](feedback/sergeyzasorin.md). We worked together in: GoldApple.
 - [Andrey Pavlov](feedback/andreypavlov.md). We worked together in: GoldApple.
+- [Stanislav Kramarenko](feedback/stanislavkramarenko.md). We worked together in: Softpro, Magnit, GoldApple.
 
 
 Public performance
